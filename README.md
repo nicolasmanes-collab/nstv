@@ -3,8 +3,9 @@
 Application de télévision personnelle. Ce dépôt ne contient que le fichier
 d'installation pour Fire TV. Le code source n'est pas publié.
 
-L'adresse de téléchargement est `nsztv.github.io/n.apk`. Ce dépôt sert de
-second exemplaire : le fichier y est identique.
+Adresse de téléchargement, à saisir dans l'application Downloader :
+
+    raw.githubusercontent.com/nicolasmanes-collab/nstv/main/n.apk
 
 ## Installer sur un Fire TV
 
@@ -13,7 +14,7 @@ second exemplaire : le fichier y est identique.
 2. Installez l'application Downloader depuis la boutique Amazon.
 3. Ouvrez Downloader et saisissez cette adresse :
 
-   `nsztv.github.io/n.apk`
+   `raw.githubusercontent.com/nicolasmanes-collab/nstv/main/n.apk`
 4. Installez, puis ouvrez NSTV. Elle apparaît ensuite dans la liste de vos
    applications, avec sa vignette.
 
